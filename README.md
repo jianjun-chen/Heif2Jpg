@@ -6,3 +6,9 @@ This tool is to convert Heif files(*.heic) to Jpg files.  It is for windows, UI 
 This tool has no advertising, no plugin, no virus, no installation. 
 
 It is free.
+
+# How to use
+Download the package, and double click Heif2Jpg.exe
+
+It will convert the xxx.heic file to xxx.jpg file, xxx.heic file will be kept.
+
