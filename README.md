@@ -12,3 +12,4 @@ Download the package, and double click Heif2Jpg.exe
 
 It will convert the xxx.heic file to xxx.jpg file, xxx.heic file will be kept.
 
+![image](https://github.com/jianjun-chen/Heif2Jpg/blob/master/heif2jpg.png)
